@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://jp-jitu-data.github.io/sitemap.xml
